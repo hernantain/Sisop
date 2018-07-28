@@ -1,0 +1,15 @@
+a.out
+archi.txt
+Descargas
+Documentos
+Escritorio
+examples.desktop
+hola.txt
+Imágenes
+Música
+pgadmin.log
+Pictures
+Público
+snap
+Templates
+Vídeos
